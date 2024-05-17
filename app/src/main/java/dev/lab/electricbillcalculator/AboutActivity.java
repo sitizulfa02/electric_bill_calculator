@@ -44,7 +44,7 @@ public class AboutActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 // Open the website URL in a browser
-                String url = "https://github.com/MuhammadFikri-main/MyElectricBill.git"; // Replace with your actual website URL
+                String url = "hhttps://github.com/sitizulfa02/electric_bill_calculator.git"; // Replace with your actual website URL
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(url));
                 startActivity(intent);
             }
